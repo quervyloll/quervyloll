@@ -1,5 +1,6 @@
 # About Me
-i do stuff
+i do stuff sometimes whenever i feel like it
+
 ![](https://komarev.com/ghpvc/?username=quervyloll&color=blue)
 
 # Stats
@@ -8,3 +9,4 @@ i do stuff
 
 # Discord
 quervylol
+
