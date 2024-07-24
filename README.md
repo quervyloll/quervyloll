@@ -1,5 +1,5 @@
 # About Me
-i know javascript and a bit of html. i do stuff when i feel like it
+lurking in the shadows practicing my dark magic
 
 ![](https://komarev.com/ghpvc/?username=quervyloll&color=blue)
 # Stats
