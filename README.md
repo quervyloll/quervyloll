@@ -7,5 +7,5 @@ lurking in the shadows practicing my dark magic
 ![](https://github-readme-stats.vercel.app/api?username=quervyloll&theme=dark&show_icons=true)
 
 # Discord
-quervylol
+[quervylol](https://discord.com/users/659196853291712532)
 
